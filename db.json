@@ -1,0 +1,24 @@
+{
+  "mobil": [],
+  "pelanggan": [
+    {
+      "id": "1",
+      "nama": "Andi Wijaya",
+      "email": "andi@mail.com",
+      "telepon": "081234567890",
+      "alamat": "Jl. Merdeka No. 123, Jakarta",
+      "bergabung": "2023-01-15",
+      "status": "Aktif"
+    }
+  ],
+  "pemesanan": [
+    {
+      "id": 1751514802410,
+      "namaPemesan": "asasss",
+      "mobil": "asas",
+      "noHp": "08985885376",
+      "status": "Lunas",
+      "tanggal": "2025-07-03"
+    }
+  ]
+}
